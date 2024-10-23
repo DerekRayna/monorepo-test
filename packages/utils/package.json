@@ -1,0 +1,13 @@
+{
+  "name": "@derek/utils",
+  "version": "1.0.0",
+  "description": "项目通用工具包",
+  "keywords": [
+    "工具函数"
+  ],
+  "author": "DerekRayna <987408090@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "src/index.js",
+  "scripts": {}
+}
