@@ -1,6 +1,6 @@
 {
   "name": "@derek/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "项目通用工具包",
   "keywords": [
     "工具函数"
